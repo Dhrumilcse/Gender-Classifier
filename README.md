@@ -1,7 +1,11 @@
 # Gender-Classifier
-Gender Classifier using various classifiers
+Gender Classifier using various classification algorithms
 
-### Dependencies: scikit-learn
- 1. Decision Tree 
- 2. KNN 
- 3. SVM
+## 1. Decision Tree
+   ### Dependencies
+     pip install scikit-learn 
+   Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
+   
+   ## Usage
+   Run `decision-tree.py`
+   
